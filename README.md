@@ -1,3 +1,2 @@
 # EnhancedTipCalculator
-
 # Author: Abdullaev Romiz
