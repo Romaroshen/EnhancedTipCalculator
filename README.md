@@ -1,2 +1,0 @@
-# EnhancedTipCalculator
-# Author: Abdullaev Romiz
